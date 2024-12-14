@@ -3,12 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Monster
+  - Ground
+  - LeftHand
+  - RightHand
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - LeftHand
   - Water
   - UI
   - 
